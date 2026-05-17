@@ -1,4 +1,4 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="waving hand" />
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand" />
 
 <br>
 
@@ -10,13 +10,13 @@ A fun fact about me is that my interest in engineering comes from my obsession w
 
 <br>
 
-# 🔗 Let's Connect
+## 🔗 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -24,7 +24,7 @@ A fun fact about me is that my interest in engineering comes from my obsession w
 
 <br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,python,java,pytorch,tensorflow,mysql,supabase" />
@@ -32,11 +32,11 @@ A fun fact about me is that my interest in engineering comes from my obsession w
 
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=preethi-pitchuka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=preethi-pitchuka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=preethi-pitchuka&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=preethi-pitchuka&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preethi-pitchuka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
